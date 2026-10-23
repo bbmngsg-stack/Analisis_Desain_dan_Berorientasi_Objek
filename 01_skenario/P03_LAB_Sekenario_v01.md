@@ -21,7 +21,7 @@ laporan peminjaman.*
 |    LAB-R06 |Kepala laboratorium dapat melihat laporan peminjaman     |
 |                                                                      |
 
-**Batas sistem dan aturan**:
+<!-- Batas sistem dan aturan: -->
 • Sistem mencatat dan menyediakan informasi; perpindahan fisik alat tidak
 terjadi di dalam perangkat lunak.
 • Pengguna telah terautentikasi dan memiliki hak akses sesuai peran.
